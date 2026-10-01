@@ -1,0 +1,61 @@
+================================
+|　　　　　　　　　　　　　　　|
+| 　リズム天国プラス　README 　|
+|　  2026.03.20 Mizuka Lover 　|
+|　　　　　　　　　　　　　　　|
+================================
+リズム天国プラスをご利用いただきありがとうございます。
+このプロジェクトはGBAゲームソフト「リズム天国」の機能追加MODです。
+
+パッチのダウンロード、手順など詳しいことにつきましては以下のリンクを参照してください。
+https://mizuka-lover.github.io/rhytngkplus/index.html
+
+【新機能について】
+リズム天国プラスで追加/更新される新たな機能の一覧です。
+
+・アーケード版リズム天国よりエクストラ（TEMPO UP!）ステージ
+・サルとポン太（ドラムレッスン　おまけゲーム）
+・オープニングの「リズム感チェック」をスキップ（スタートボタンでポーズ→やめる）
+・ゲームセレクト画面での「練習なし」グラフィック
+・ゲームセレクト画面での「パーフェクトクリア」グラフィック
+・リミックス6クリア後、オプション画面でRボタンを押すとゲームセレクトの曲を変更可能
+・全ゲームパーフェクトクリア後、セレクトボタンを押しながらAボタンでゲームを選択するとパーフェクトキャンペーンを再プレイ可能
+・マーチャ　隊長の吹き出し
+・「カラテ家2」「リズム脱毛2」などのプロローグを新規作成
+・「ウサギとび」のイントロにテキストを追加
+・「ラップメン」の練習にテキストを追加
+・ポーズしてゲームに戻る時に音声が途切れる問題を修正
+・その他たくさんのグラフィックのバグの修正
+・デバッグメニュー、オートプレイ（デバッグ機能入りのパッチを使う場合）
+
+また、「リズム天国プラス」では目の不自由な方が音のみで遊びやすいよう以下の配慮を加えています。
+
+・カラテ家の「～つ！」音声
+・「こっそりラット」で猫の合図とラットたちが走り始める時の合図の音を追加
+・「バイキンはかせ」の音声をステレオ化（右側→右音声、上側→両音声、左側→左音声、下側→両音声+声低め）
+・「リミックス1」でマーチャに切り替わった時に合図の声を追加
+・「リミックス2」でしろいおばけのリズムが少し変わるため、カウントダウンの合図を追加
+・「トランとポリン」の音声をステレオ化（トランが左音声、ポリンが右音声）
+・「ナイトウォーク2」のビリビリウオに合図を追加（直前にビリビリという音が鳴ります）
+
+【クレジット】
+リズム天国プラスの宣伝サイトをご確認ください。
+https://mizuka-lover.github.io/rhytngkplus/credits/index.html
+
+【連絡先】
+ご質問の際はTwitter、Blueskyのメッセージなどへどうぞ。
+Twitter: https://x.com/rhytngkplus
+Bluesky: https://bsky.app/profile/rhythmtengokuplus.bsky.social
+
+【注意事項】
+これは非公式のファンプロジェクトであり、任天堂と提携・承認・関連するものではありません。全ての商標権及び著作権はそれぞれの所有者に帰属します。本パッチは合法的に入手したゲームソフトでの個人利用のみを目的としています。
+
+本パッチを商業目的で使用することは一切禁止されています。
+
+リズム天国に関するアセット及びソースコードの全ての権利は、オリジナル作者及び任天堂が保有します。
+
+This is an unofficial fan project and is not affiliated with, endorsed by, or associated with Nintendo. All trademarks and copyrights belong to their respective owners. This patch is intended for personal use only with legally obtained copies of the game.
+
+You are NOT permitted to use the patch for commercial purposes.
+
+All rights concerning the assets or source code are reserved by the original authors and Nintendo for Rhythm Tengoku.
